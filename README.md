@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## _Hi! I'm Hilary_
 
-You can use the [editor on GitHub](https://github.com/hmay1415/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm both new to coding and to Seattle. I'm currently a Project Manager at Zillow but have a varied professional background in events and start up operations. I lived in New York City for 10 years, spent 2 years in Denver, and recently moved to Seattle with my husband and dog...right when the pandemic hit and relocation was no longer required. I'm excited to dive into class and scratch the itch of learning a new skill!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find my profile [at this link here](https://github.com/hmay1415).
 
-### Markdown
+### Growth Mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Growth Mindset is important to adopt when learning a new skill. It's the belief that skills can be learned through dedication and hard work and we are all in control of our own abilities. The following are reminders to myself that I'll utilize to help keep me in a growth mindset:
 
-```markdown
-Syntax highlighted code block
+1. When it feels hard and like you'll never grasp it, remember that even the most experienced coders felt the exact same way. You'll get through it.
+2. When you see a challenge, view it as an exciting opportunity to learn, even if you stumble along the way.
+3. View mistakes as great learning tools! Think about all the mistakes you've made in the past and how rarely you've made them a second time. 
 
-# Header 1
-## Header 2
-### Header 3
+!(https://www.talent-quarterly.com/wp-content/uploads/2020/04/Growth_mindset_illustration.jpg)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hmay1415/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
