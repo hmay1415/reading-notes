@@ -1,4 +1,6 @@
-## _Hi! I'm Hilary_
+## _Welcome_
+
+### Introduction
 
 I'm both new to coding and to Seattle. I'm currently a Project Manager at Zillow but have a varied professional background in events and start up operations. I lived in New York City for 10 years, spent 2 years in Denver, and recently moved to Seattle with my husband and dog...right when the pandemic hit and relocation was no longer required. I'm excited to dive into class and scratch the itch of learning a new skill!
 
@@ -12,6 +14,6 @@ Growth Mindset is important to adopt when learning a new skill. It's the belief 
 2. When you see a challenge, view it as an exciting opportunity to learn, even if you stumble along the way.
 3. View mistakes as great learning tools! Think about all the mistakes you've made in the past and how rarely you've made them a second time. 
 
-!(https://www.talent-quarterly.com/wp-content/uploads/2020/04/Growth_mindset_illustration.jpg)
+![alt text](https://www.talent-quarterly.com/wp-content/uploads/2020/04/Growth_mindset_illustration.jpg)
 
 
