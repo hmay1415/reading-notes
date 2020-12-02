@@ -1,7 +1,7 @@
 ## _Welcome_
 
 ### References :closed_book:
-![Markdowns](markdowns.md)
+
 
 ### Introduction :wave:
 
