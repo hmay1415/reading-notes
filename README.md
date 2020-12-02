@@ -6,7 +6,7 @@ I'm both new to coding and to Seattle. I'm currently a Project Manager at Zillow
 
 You can find my profile [at this link here](https://github.com/hmay1415).
 
-### Growth Mindset
+### Growth Mindset :brain:
 
 Growth Mindset is important to adopt when learning a new skill. It's the belief that skills can be learned through dedication and hard work and we are all in control of our own abilities. The following are reminders to myself that I'll utilize to help keep me in a growth mindset:
 
