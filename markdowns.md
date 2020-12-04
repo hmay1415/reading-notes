@@ -14,11 +14,18 @@ It's easy! Reference the cheat sheet below for useful markdown syntax.
 - Headings: use pound signs. The more pound signs, the smaller the text.
 - Bold: use ** on either side of the text or two underscores
 - Italic: use * on either side of the text or one underscore
+- Strikethrough: use ~~ on eithe rside ofthe text
 - Lists: For ordered, use numbers. For unordered, use -.
-- Insert Image: '<![Alt Text](url)>'. Remove spaces to activate.
-- Insert Logo: '<![Logo Name] (url)>'. Remove spaces to activate.
-- Link: [What you want displayed] (url). Remove spaces to activate.
+- Insert Image: `![Alt Text](url)`
+- Insert Logo:  `![Logo Name](url)`
+- Link: `[What you want displayed](url)`. Remember: no ! needed
 - Blockquotes: Start lines with carrots >
+- Quoting code: Nest in backticks ( ` )
+- Tables: use hyphens ( - ) to divide first row and pipes ( | ) to create columns
+- Emojis: Reference this [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+
+
 
 
 
