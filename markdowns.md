@@ -24,6 +24,8 @@ It's easy! Reference the cheat sheet below for useful markdown syntax.
 - Tables: use hyphens ( - ) to divide first row and pipes to create columns
 - Emojis: Reference this [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+To navigate back to the main page click [here](https://hmay1415.github.io/reading-notes/)
+
 
 
 
