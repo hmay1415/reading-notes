@@ -15,7 +15,7 @@ It's easy! Reference the cheat sheet below for useful markdown syntax.
 - Bold: use ** on either side of the text or two underscores
 - Italic: use * on either side of the text or one underscore
 - Strikethrough: use ~~ on eithe rside ofthe text
-- Lists: For ordered, use numbers. For unordered, use -.
+- Lists: For ordered, use numbers. For unordered, use - or + or *
 - Insert Image: `![Alt Text](url)`
 - Insert Logo:  `![Logo Name](url)`
 - Link: `[What you want displayed](url)`. Remember: no ! needed
