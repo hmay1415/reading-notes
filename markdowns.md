@@ -15,7 +15,10 @@ It's easy! Reference the cheat sheet below for useful markdown syntax.
 - Bold: use ** on either side of the text or two underscores
 - Italic: use * on either side of the text or one underscore
 - Lists: For ordered, use numbers. For unordered, use -.
-- Insert Image: ![Alt Text] (url).
-- Insert Logo: ![Logo Name](url). 
+- Insert Image: '<![Alt Text](url)>'. Remove spaces to activate.
+- Insert Logo: '<![Logo Name] (url)>'. Remove spaces to activate.
+- Link: [What you want displayed] (url). Remove spaces to activate.
+- Blockquotes: Start lines with carrots >
+
 
 
