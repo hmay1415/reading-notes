@@ -62,6 +62,7 @@ Text Editors vs. IDEs:
   - If the file or directory's name begins with a . (full stop) then it is hidden. To hide file, start name with full stop. 
   - ls will not show hidden files. ls ~a will bring up hidden files
   
+  Return to [Main Page](README.md)
   
   
   
