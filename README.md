@@ -8,6 +8,7 @@ You can find my profile [at this link here](https://github.com/hmay1415).
 
 ### Table of Contents for Class Notes
 - [Class 1: Learning Markdowns](markdowns.md)
+- [Class 2: The Coder's Computer](coderscomputer.md)
 
 ### Growth Mindset 
 
