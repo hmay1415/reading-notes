@@ -26,4 +26,19 @@ Third party options:
 
 Text Editors vs. IDEs:
  - IDE is suite of softwares. Includes text editor, file manager, compiler, debugger.
+ 
+ #### Notes from [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+ - GUI: Graphical User Interface
+ - Command line/terminal: text based interface to the system
+ - Must be spaces between command and command line argument
+ - Option - comes after command and modifies behavior of command. Starts with a dash -
+ - Prompt displayed command is done running
+ - Within terminal is shell. Shell defines how terminal will behave and runs commands. Bash is a type of shell (Bourne Again SHell)
+ - echo $Shell tells you what shell you're using
+ - Shortcut: traverse history using up and down arrows and edit with side arrows
+ 
+ #### Notes from [Basic Navigaton](https://ryanstutorials.net/linuxtutorial/navigation.php)
+ 
+ 
+ 
 
