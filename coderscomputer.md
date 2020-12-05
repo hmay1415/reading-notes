@@ -38,7 +38,10 @@ Text Editors vs. IDEs:
  - Shortcut: traverse history using up and down arrows and edit with side arrows
  
  #### Notes from [Basic Navigaton](https://ryanstutorials.net/linuxtutorial/navigation.php)
- 
+  - pwd - print working directory - where you are
+  - ls - list - what is in current directory
+  - ls <[options][location]>
+  
  
  
 
