@@ -53,6 +53,15 @@ Text Editors vs. IDEs:
   - cd - change directory. format is cd location. If run cd without location, takes you back to directory
   - Tab - autocompletes. Hit twice for options
   
+  #### Notes from [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+  - Everything is a file (directory, keyboard, etc.)
+  - Linux is extensionless system - to find out what type of file use file [path]
+  - Linux is case sensitive
+  - On command line BE CAREFUL WITH SPACES. Individual words seen as unique commands. Use quotes or 'escape characters' ie a backslash / - skips next character ie space
+  - Tab complete can automatically escape spaces in name
+  - If the file or directory's name begins with a . (full stop) then it is hidden. To hide file, start name with full stop. 
+  - ls will not show hidden files. ls ~a will bring up hidden files
+  
   
   
   
