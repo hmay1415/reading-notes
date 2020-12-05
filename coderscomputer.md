@@ -1,4 +1,4 @@
-###### Notes from [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+##### Notes from [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 - A text editor is a piece of software that you download and install on your computer, or access online through your web browser, that allows you to write and manage text, especially the text that you write to build a website. It's one of the most important tools as an aspiring developer.
 
 Features to look for:
@@ -27,7 +27,7 @@ Third party options:
 Text Editors vs. IDEs:
  - IDE is suite of softwares. Includes text editor, file manager, compiler, debugger.
  
- ###### Notes from [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+ ##### Notes from [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
  - GUI: Graphical User Interface
  - Command line/terminal: text based interface to the system
  - Must be spaces between command and command line argument
@@ -37,7 +37,7 @@ Text Editors vs. IDEs:
  - echo $Shell tells you what shell you're using
  - Shortcut: traverse history using up and down arrows and edit with side arrows
  
- ###### Notes from [Basic Navigaton](https://ryanstutorials.net/linuxtutorial/navigation.php)
+ ##### Notes from [Basic Navigaton](https://ryanstutorials.net/linuxtutorial/navigation.php)
   - pwd - print working directory - where you are
   - ls - list - what is in current directory
   - ls <[options][location]> - to do more with list command
@@ -53,7 +53,7 @@ Text Editors vs. IDEs:
   - cd - change directory. format is cd location. If run cd without location, takes you back to directory
   - Tab - autocompletes. Hit twice for options
   
-  ###### Notes from [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+  ##### Notes from [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
   - Everything is a file (directory, keyboard, etc.)
   - Linux is extensionless system - to find out what type of file use file [path]
   - Linux is case sensitive
