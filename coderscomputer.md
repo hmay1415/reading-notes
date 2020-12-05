@@ -40,7 +40,21 @@ Text Editors vs. IDEs:
  #### Notes from [Basic Navigaton](https://ryanstutorials.net/linuxtutorial/navigation.php)
   - pwd - print working directory - where you are
   - ls - list - what is in current directory
-  - ls <[options][location]>
+  - ls <[options][location]> - to do more with list command
+  - ls -l - long list 
+  - ls -l /etc - lists contents of directories
+  - two types of paths - relative and absolute
+  - file system is hierarchical - at top is root, denoted by /
+  - absolute paths specify location in relation to root - identified by /
+  - relative paths specify location in relation to where we currently are - don't have a /
+  - ~ (tilde) - shortcut for home directory (can truncate home/hilary/Documents with ~/Documents)
+  - .(dot) - reference to current directory
+  - ..(dotdot) - reference to parent directory - can go back up the hierarchy with ../ ../ 
+  - cd - change directory. format is cd location. If run cd without location, takes you back to directory
+  - Tab - autocompletes. Hit twice for options
+  
+  
+  
   
  
  
