@@ -7,3 +7,5 @@ Growth Mindset is important to adopt when learning a new skill. It's the belief 
 3. View mistakes as great learning tools! Think about all the mistakes you've made in the past and how rarely you've made them a second time.
 
 ![alt text](https://edsurge.imgix.net/uploads/post/image/12467/mind_as_muscle-1565189295.jpg)
+
+To navigate back to the main page click [here](https://hmay1415.github.io/reading-notes/)
