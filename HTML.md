@@ -65,14 +65,12 @@ To navigate back to the main page click [here](https://hmay1415.github.io/readin
 
 ## Chapter 1: Structure
 
-brackets are called HTML elements - made up of open and close tags
-opening tags can carry attributes which tell us more about the content of that element - require name and value 
-attribute name - what kind of info you're supplying
-attribute value - information or setting for the attribute, placed in double quotes
-Use TextEdit to create a page on Mac
+- brackets are called HTML elements - made up of open and close tags
+- opening tags can carry attributes which tell us more about the content of - that element - require name and value 
+- attribute name - what kind of info you're supplying
+- attribute value - information or setting for the attribute, placed in double quotes
+- Use TextEdit to create a page on Mac
 
 ## Chapter 17: Layout
-
-
 
 ## Chapter 8: Extra Markup
