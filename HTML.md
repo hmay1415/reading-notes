@@ -66,11 +66,50 @@ To navigate back to the main page click [here](https://hmay1415.github.io/readin
 ## Chapter 1: Structure
 
 - brackets are called HTML elements - made up of open and close tags
-- opening tags can carry attributes which tell us more about the content of - that element - require name and value 
+- opening tags can carry attributes which tell us more about the content of - that element - require name and value
 - attribute name - what kind of info you're supplying
 - attribute value - information or setting for the attribute, placed in double quotes
 - Use TextEdit to create a page on Mac
 
 ## Chapter 17: Layout
 
+- `<header>` and `<footer>` used for main or for article within page
+- `<article>` container for any section of page that can stand alone or be syndicated. Can be nested inside each other. Each section has it's own article element
+- `<aside>' When inside article, contains info related to article but not essential to overall meaning ie glossary. When outside, contains content related to entire page ie links to other sections of the site, list of posts, etc.
+- `<nav>` only for major nav blocks, not for nav at end of text block
+- `<section>` group related content together and typically have own heading. May contain several distinct article elements that have common theme. Can also split up article into dif sections. Not for full page wrapper - use `<div>` for that
+`<hgroup>` group together `<h1>` thru `<h6>` elements so stay in single heading
+- `<figure>` - contains content that is referenced from main flow of article - not just images - article should make sense without figure and not be integral to flow of page
+- `<figcaption>` text description of figure contained in figure element
+- `<div>` - to group together related elements and can serve as wrapper
+- `<a>` - turns full block into a link
+
 ## Chapter 8: Extra Markup
+
+- DOCTYPE declaration tells browser which version of HTML page is using
+- DOCTYPE can also help broswer render a page correctly
+- for HTML5 - `<!DOCTYPE html>`
+- `<!-- comment -->` to add comment to code that will not be visible in browser
+- id attribute - `<p id="pullquote">` - used to identify that elemen from other elements on the page - value should start with letter or underscore. IMPORTANT: no two elements on same page have same value for id attributes. Used to identify when adding style elements with CSS
+- id attribute = global attribute because used on any element
+- class attribute - `<p class="important">` - identify several elements at a time or groups them
+- if element belongs to multiple classes, separate with a space within quotes
+- block elements - `<hl><p><ul>,<li>`- start on new line in broswer window
+- inline elements - `<a><b><em><img>`
+- `<div>` - one block-level box like all elements of header or comments
+- applying div allows to create formats of blocks on pages. always add comments after div
+- `<span>` - inline equivalent of div. helps control appearance of inline text with CSS
+- `<iframe>` - window to another page. Elements:
+
+1. src specifies URL
+2. height in pixels
+3. width in pixels
+4. scrolling - not for HTML5?
+5. frameborder - not for HTML5?
+6. seamless - HTML5 only - where scrollbars not desired
+
+- `<meta>`  - lives inside `<head>` - tells search engines about page. Does not have closing tag
+- `<meta name="description, keywords, robots">` - description of page
+- robots - noindex if not added to search engine, nofollow if only this page added to search engine but not other pages linked to
+-`<meta http-equiv="author, pragma, expires"> - pragma prevents broswer from storing page locally, expires is when page should not longer be cached
+- escape codes - used to bring up special characters in the final product of HTML
