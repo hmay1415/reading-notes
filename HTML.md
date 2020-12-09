@@ -16,6 +16,7 @@ uses tags to establish structural components
 - image `<img>`
 - `<body>``</body>'
 - `<header>``</header>'
+- `<head>` - doesn't display on webpage, but encompasses metadata like title, link css, link js, sizing data etc,
 
 ## Chapter 18 - Process and Design
 
