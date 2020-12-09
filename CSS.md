@@ -48,3 +48,5 @@
 - Older browsers don't recognize HSL or HSLA - add extra rule specifying color with RBG, Hex or Color Name BEFORE HSL or HSLA rule as fallback
 - HSL ex: '<hsl(0,0%,78%)>'
 - HSLA adds transparency. a stands for Alpha. Number between 0 and 1.0. Ex: .5 is 50% transparency
+
+To navigate back to the main page click [here](https://hmay1415.github.io/reading-notes/)
