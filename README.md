@@ -16,4 +16,4 @@ You can find my profile [at this link here](https://github.com/hmay1415).
 - [Class 4: HTML](HTML.md)
 - [Class 5: CSS](CSS.md)
 - [Class 6: JavaScript](Java.md)
-- [Class 7:]
+- [Class 6b: Computer Architecture and Logic](comparch.md)
