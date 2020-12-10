@@ -57,3 +57,5 @@ Rules for naming variables:
 4. case sensitive
 5. use name that describes kind of info variable stores ex firstName
 6. use camel case for multi words or underscore between words
+
+To navigate back to the main page click [here](https://hmay1415.github.io/reading-notes/)
