@@ -15,4 +15,4 @@ You can find my profile [at this link here](https://github.com/hmay1415).
 - [Class 3: Git Practice Notes](gitpractice.md)
 - [Class 4: HTML](HTML.md)
 - [Class 5: CSS](CSS.md)
-- [Class 6: JavaScript][Java.md]
+- [Class 6: JavaScript](Java.md)
