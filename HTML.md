@@ -16,7 +16,8 @@ uses tags to establish structural components
 - image `<img>`
 - `<body>``</body>'
 - `<header>``</header>'
-- `<head>` - doesn't display on webpage, but encompasses metadata like title, link css, link js, sizing data etc,
+- `<head>` - doesn't display on webpage, but encompasses metadata like title, link css, link js, sizing data etc.
+- semantic - tags that indicate where text will go? `<div>' not semantic because doesn't tell you anything. Also tags that impact screen readers, convert to braille, etc.
 
 ## Chapter 18 - Process and Design
 
@@ -114,3 +115,5 @@ To navigate back to the main page click [here](https://hmay1415.github.io/readin
 - robots - noindex if not added to search engine, nofollow if only this page added to search engine but not other pages linked to
 -`<meta http-equiv="author, pragma, expires"> - pragma prevents broswer from storing page locally, expires is when page should not longer be cached
 - escape codes - used to bring up special characters in the final product of HTML
+
+To navigate back to the main page click [here](https://hmay1415.github.io/reading-notes/)
