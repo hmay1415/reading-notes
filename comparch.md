@@ -39,4 +39,3 @@ Hardware and Software
 - when running a bunch of programs at once, actually OS switching super fast, sharing that CPU
 
 To navigate back to the main page click [here](https://hmay1415.github.io/reading-notes/)
-
