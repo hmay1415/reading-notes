@@ -20,4 +20,20 @@ Data and Binary
 
 Circuits and Logic
 
--dd
+- info represented by on / off electrical signals
+- has to combine inputs using logic
+- smaller circuits faster because less distance to go!
+
+Memory, CPU, Input and Output
+
+- CPU = central processing unit
+- CPU determines how to draw letters you type, requests instructions from memory
+- thousands of instructions to display 1 letter
+
+Hardware and Software
+
+- CPU is master chip that controls all other parts of the computer
+- has circuits that do different things (math and logic, send and receive)
+- commands stored in memory, fetched by CPU
+- OS that manages how software uses the hardware of a computer
+- when running a bunch of programs at once, actually OS switching super fast, sharing that CPU
