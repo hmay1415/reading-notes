@@ -18,3 +18,4 @@ You can find my profile [at this link here](https://github.com/hmay1415).
 - [Class 6: JavaScript](Java.md)
 - [Class 6b: Computer Architecture and Logic](comparch.md)
 - [Class 7: Programming with JavaScript](java2.md)
+- [Class 8: Operators and Loops](operators.md)
