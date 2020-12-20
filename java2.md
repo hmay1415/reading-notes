@@ -15,7 +15,7 @@
 - when asking for user input, need to work out how to make sure different versions of the same answer are recogized as the same (yes, yessss, y) - toUppercase, toLowercase are examples of this. Just take 1st letter is an option
 - `|| is or operator, && is and operator`
 - HTML runs top to bottom. Will run until hits JS and then pauses for
-command
+command. Update
 
 ## Intro and Scripts (pg 1 -24)
 
